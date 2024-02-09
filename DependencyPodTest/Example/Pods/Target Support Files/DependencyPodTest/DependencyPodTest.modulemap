@@ -1,0 +1,6 @@
+framework module DependencyPodTest {
+  umbrella header "DependencyPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

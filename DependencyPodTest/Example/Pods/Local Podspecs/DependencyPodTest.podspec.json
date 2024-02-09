@@ -1,0 +1,22 @@
+{
+  "name": "DependencyPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of DependencyPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Bojan Karlicic/DependencyPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bojan Karlicic": "bojan.karlicic@delsystems.net"
+  },
+  "source": {
+    "git": "https://github.com/Bojan Karlicic/DependencyPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DependencyPodTest/Classes/**/*"
+}
